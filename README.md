@@ -125,9 +125,9 @@ Cukup download versi rilis siap pakai di GitHub!
 🖼 Preview Aplikasi
 
 <p align="center">
-  <img src="/img/Walpaper.png" alt="SmartExcel Preview" width="750"/>
+  <img src="/img/demo1.png" alt="SmartExcel Preview" width="750"/>
   <br>
-  <em>Tampilan utama aplikasi SmartExcel dengan tema gelap elegan.</em>
+  <em>Rumus Otomatis Dibuat</em>
 </p>
 
 ---
