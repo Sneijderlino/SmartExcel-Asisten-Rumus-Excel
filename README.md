@@ -115,8 +115,8 @@ Cukup download versi rilis siap pakai di GitHub!
 1. Kunjungi halaman 📦 Releases SmartExcel
 2. Pilih versi terbaru (misal v1.0.0)
 3. Unduh file berikut di bagian Assets:
-             > SmartExcel-v1.0.0.zip → Source code
-             > SmartExcel-v1.0.0-setup.exe → Installer Windows
+> SmartExcel-v1.0.0.zip → Source code
+> SmartExcel-v1.0.0-setup.exe → Installer Windows
 4. Ekstrak atau jalankan langsung file .exe
 ```
 
