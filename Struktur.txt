@@ -1,0 +1,20 @@
+APLIKASI RUMUS EXCEL/
+│
+├── img/
+│   └── Wallpaper.png
+│
+├── Logo/
+│   └── logo.ico
+│
+├── .gitignore
+├── LICENSE
+├── README.md
+├── requirements.txt
+├── SmartExcel.py
+├── favorit_rumus.json
+├── bug_report.md
+├── Struktur.txt
+├── version.txt
+├── CHANGELOG.md
+├── CONTRIBUTING.md
+└── setup.py
