@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/img/Walpaper.png" alt="SmartExcel Banner" width="900"/>
+  <img src="/img/demo1.png" alt="SmartExcel Banner" width="900"/>
 </p>
 
 <h1 align="center">📊 SMART EXCEL — ASISTEN RUMUS EXCEL</h1>
