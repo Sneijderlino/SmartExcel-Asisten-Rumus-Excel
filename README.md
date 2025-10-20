@@ -131,6 +131,12 @@ Cukup download versi rilis siap pakai di GitHub!
 </p>
 
 ---
+<p align="center">
+  <img src="/img/demo2.png" alt="SmartExcel Preview" width="750"/>
+  <br>
+  <em>Rumus Berhasil Diterapkan</em>
+</p>
+---
 
 ### ✅ Tips:
 
